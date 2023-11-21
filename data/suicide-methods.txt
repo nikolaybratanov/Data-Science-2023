@@ -1,0 +1,5 @@
+Sex,Poisoning by drugs,Poisoning by drugs,Hanging,Drowning,Firearms,Jumping,Moving object,Other methods
+
+Males,8.2%,4.1%,54.9%,2.0%,10.4%,7.8%,5.6%,7.1%
+
+Females,23.2%,3.1%,37.9%,6.7%,1.3%,14.1%,5.2%,8.3%
